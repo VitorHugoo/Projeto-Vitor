@@ -1,0 +1,86 @@
+
+body {
+	background-color: #5F9EA0;
+}
+
+main {
+	margin: 10px auto;
+	width: 960px;
+	height: auto;
+	background-color: #191970;
+	padding: 5px;
+}
+
+header{
+	height: 150px;
+	text-align: center;
+	background-color: #00FA9A;
+	padding: 5px;
+}
+
+nav {
+	height: 35px;
+	background-color: #696969;
+	text-align: center;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#noticias {
+	height: auto;
+	background-color: #7FFFD4;
+	padding: 5px;
+	display: table;
+}
+
+footer {
+	height: 50px;
+	background-color: #B0C4DE;
+	text-align: center;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#texto01{
+	width: 280px;
+	padding: 10px;
+	background-color:#7B68EE;/*#B0E0E6*/
+	float: left;
+	margin-left: 10px;
+}
+
+#texto02{
+	width: 280px;
+	padding: 10px;
+	background-color: #7B68EE;
+	float: left;
+	margin-left: 10px;
+}
+
+#texto03{
+	width: 280px;
+	padding: 10px;
+	background-color: #7B68EE;
+	float: left;
+	margin-left: 10px;
+}
+
+#texto04{
+	/*	width: 300px;*/
+	padding: 5px;
+	background-color: #7B68EE;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+	margin-left: 5px;
+	padding: 8px;
+}
+
+#escola {
+	height: 150px;
+	width: 300px;
+	float: right;
+}
+

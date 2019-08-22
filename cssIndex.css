@@ -1,0 +1,59 @@
+
+#yy {
+	width: 700px;
+	height: 400px;
+}
+
+body {
+	background-image: url("Imagens00/pink-floyd-hd.jpg");
+}
+
+#cc {
+	color: gray;
+}
+
+#body2 {
+	background-image: url("Imagens00/giphy.gif");
+}
+/*
+#txt {
+	color: #F0F8FF;
+}
+
+#flip, #flip2, #flip3, #flip4, #flip5, #flip6, #flip7, #flip8 {
+	color: #F0F8FF;
+}*/
+
+#panel, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8 {
+	/*background-color: #ADD8E6;*/
+	width: 200px;
+}
+
+h2 {
+	color: #F0F8FF;
+}
+
+#nome {
+	color: #F0F8FF;
+}
+
+#corpo {
+	background-color: #DCDCDC;/*#F08080;*/
+	width: 200px;
+	border-style: solid;
+	border-color: #00FFFF;
+}
+
+#panel:hover, #panel2:hover, #panel3:hover, #panel4:hover, #panel5:hover, #panel6:hover, #panel7:hover, #panel8:hover {
+	display: block;
+	padding-left:0;
+	font-weight: bold;
+	border-left: 10px solid #333333;
+	border-bottom: 1px solid #006699;
+	color: #00ff40; 
+}
+
+#p00 {
+	color: #F0F8FF;
+	font-size: 20px;
+}
