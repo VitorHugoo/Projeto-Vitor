@@ -1,19 +1,4 @@
 
-$(window).load(function(){
-
-
-		$("#Menu").(function(){
-		$("#panel").slideUp("fast");
-		$("#panel2").slideUp("fast");
-		$("#panel3").slideUp("fast");
-		$("#panel4").slideUp("fast");
-		$("#panel5").slideUp("fast");
-		$("#panel6").slideUp("fast");
-		$("#panel7").slideUp("fast");
-		$("#panel8").slideUp("fast");
-	});
-
-});
 
 $(document).ready(function(){
 
