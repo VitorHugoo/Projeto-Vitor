@@ -1,0 +1,25 @@
+main {
+	margin: 10px auto;
+	width: 960px;
+	height: auto;
+	background-color: #191970;
+}
+
+header{
+	height: 50px;
+}
+
+nav {
+	height: 135px;
+	background-color: #696969;
+}
+
+#noticias {
+	height: auto;
+	border-color: #00BFFF;
+}
+
+footer {
+	height: 50px;
+	border-color: #B0C4DE;
+}

@@ -1,0 +1,130 @@
+
+body {
+	/*background-image: url("../imagens/fundo.png");
+	background-repeat: repeat-x;
+	background-attachment: fixed;*/
+}
+
+main {
+	margin: 10px auto;
+	/*width: 960px;*/
+	height: auto;
+	padding: 5px;
+}
+
+header {
+	font-family: "Times New Roman";
+	font-style: italic;
+	color: #008000;
+}
+
+nav {
+	padding: 5px;
+	margin: 10px;
+	height: 450px;
+	width: 940px;
+
+
+}
+
+#banner {
+	
+	height: 450px;
+}
+
+#texto01 {
+	font-family: "arial";
+	position: absolute;
+	width: 400px;
+	padding: 5px;
+	margin: 10px;
+}
+
+#foto01 {
+	width: 200px;
+	height: 150px;
+	padding: 5px;
+	margin: 10px;
+}
+
+#texto02 {
+	float: left;
+	width: 250px;
+	font-family: "arial";
+	padding: 5px;
+	margin: 10px;
+}
+
+#p02 {
+	width: 300px;
+}
+
+#foto02 {
+	width: 200px;
+	height: 150px;
+	/*float: left;*/
+	padding: 5px;
+	margin: 10px;
+}
+
+#foto03 {
+	width: 200px;
+	height: 150px;
+	/*float: left;*/
+	padding: 5px;
+	margin: 10px;
+}
+
+#texto03 {
+	float: left;
+	font-family: "arial";
+	width: 250px;
+	padding: 5px;
+	margin: 10px;
+}
+
+#foto04 {
+	width: 200px;
+	height: 150px;
+	/*float: left;*/
+	padding: 5px;
+	margin: 10px;
+}
+
+#texto04 {
+	float: left;
+	font-family: "arial";
+	width: 250px;
+	padding: 5px;
+	margin: 10px;
+}
+
+#texto05 {
+	float: left;
+	font-family: "arial";
+	/*width: 500px;*/
+	padding: 5px;
+	margin: 10px;
+}
+
+#p03 {
+	width: 300px;
+}
+
+#p04 {
+	width: 300px;
+}
+
+#p05 {
+	width: 300px;
+}
+
+footer {
+	height: 200px
+	width: 300px;
+}
+
+#tp {
+	position: absolute;
+	top: 10%;
+}
